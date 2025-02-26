@@ -3,7 +3,7 @@
  * Plugin Name: Custom Product Text Field
  * Description: Adds a custom text field to WooCommerce product pages for user input.
  * Version: 1.2
- * Author: D3 Logics
+ * Author: Dushyant Verma
  * License: GPLv2 or later
  * Text Domain: custom-product-text-field
  */
