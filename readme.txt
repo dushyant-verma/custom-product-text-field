@@ -1,4 +1,5 @@
 === Custom Product Text Field ===
+******* Please rename the plugin zip file to - custom-product-text-field.zip If your want to use my plugin ************
 Contributors: dushyantverma  
 Tags: custom field, product customization, text input  
 Requires at least: 5.0  
